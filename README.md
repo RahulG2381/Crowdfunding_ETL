@@ -57,7 +57,7 @@ We have used the 1st option to create the Contacts DataFrame
 1. Create a new Postgres database named 'crowdfunding_db'.
 2. Using the database schema from step 4, create the tables in the correct order to handle foreign keys.
 3. Import each CSV file into its corresponding SQL table.
-4. Verify table creation by running a SELECT statement for each table.
+4. Verify table creation by running a SELECT statement for each table (**crowdfunding_db_schema_query.sql**).
 
 
 
