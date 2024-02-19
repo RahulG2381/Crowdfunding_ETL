@@ -53,7 +53,7 @@ We have used the 1st option to create the Contacts DataFrame
 1. Inspect the four CSV files: 'category.csv', 'subcategory.csv', 'contacts.csv', and 'campaign.csv'.
 2. Sketch an Entity-Relationship Diagram (ERD) using QuickDBD to represent the relationships between tables.
 3. Save the database schema as a Postgres file named **crowdfunding_db_schema.sql** and upload it to GitHub repository.
-## Database Creation in postgres SQL:
+## Database Creation in Postgres SQL:
 1. Create a new Postgres database named 'crowdfunding_db'.
 2. Using the database schema from step 4, create the tables in the correct order to handle foreign keys.
 3. Import each CSV file into its corresponding SQL table.
